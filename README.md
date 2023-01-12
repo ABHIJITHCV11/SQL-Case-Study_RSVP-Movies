@@ -28,6 +28,6 @@ Analyse the data set and draw meaningful insights that can help them start their
  
  Executive Summary and Recommendation is made after the analysis.
  
- [Executive_Summary_and_Recommendation.pdf](https://github.com/ABHIJITHCV11/SQL-Case-Study_RSVP-Movies/blob/master/Executive_Summary_and_Recommendation.pdf)contains data
- insights and Proposal.
+ [Executive_Summary_and_Recommendation.pdf](https://github.com/ABHIJITHCV11/SQL-Case-Study_RSVP-Movies/blob/master/Executive_Summary_and_Recommendation.pdf) contains data
+ insights and Proposals.
  
