@@ -13,6 +13,7 @@ Analyse the data set and draw meaningful insights that can help them start their
 ## Data
 
 [IMDB+dataset+import.sql](https://github.com/ABHIJITHCV11/SQL-Case-Study_RSVP-Movies/blob/master/IMDB%2Bdataset%2Bimport.sql) contains the movie data set
+
 [IMDb+movies+Data+and+ERD+final.xlsx](https://github.com/ABHIJITHCV11/SQL-Case-Study_RSVP-Movies/blob/master/IMDb%2Bmovies%2BData%2Band%2BERD%2Bfinal.xlsx) contains ERD and schema
 
 ## Problem solving approach
